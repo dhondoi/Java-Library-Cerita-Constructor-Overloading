@@ -21,7 +21,6 @@
   <summary>Table of Contents</summary>
       <ul>
           <li><a href="#the-story">The Story</a></li>
-          
       </ul>
 </details>
 
@@ -131,7 +130,7 @@ Junior tersebut menyebarkan kepada senior update library tersebut. Senior 1 tida
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-![MonoAlphabet][monoalphabet]
+<!-- ![MonoAlphabet][monoalphabet] -->
 
 
 
